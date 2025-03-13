@@ -54,8 +54,8 @@ The dataset contains 53,940 records with key attributes such as:
 - Designed an interactive Power BI dashboard with filters, slicers, and visualizations.
 - Integrated charts like bar graphs, scatter plots, and heatmaps to represent trends effectively.
 
-## Dashboard Screenshot
-<a href = "">Dashboard</a>
+## Dashboard
+<a href = "Diamond Analysis Dashboard.pdf">Dashboard.pdf</a>
 
 ## Project Insights
 - *Cut Quality Impact:* Ideal and Premium cut diamonds have significantly higher prices due to their superior light reflection properties.
