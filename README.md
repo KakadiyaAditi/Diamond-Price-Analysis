@@ -15,7 +15,7 @@ The dataset contains 53,940 records with key attributes such as:
 - *Table* (Width of the top facet)
 - *Price* (Price in US dollars)
 - *x, y, z* (Dimensional measurements in mm)
-- <a href = "">Dataset</a>
+- <a href = "diamonds.csv">Dataset</a>
 
 ## Key Questions (KPIs) Analyzed
 ### Price & Count Analysis
